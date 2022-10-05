@@ -5,13 +5,13 @@ from Player import CheckMoveIsPossible
 from Agent import FindPossibleMove
 from Agent import MakeRandomMove
 
-###############################################################
-#   Filename: Main.py
-#   Descxription: 
+# *******************************
+# Filename: Main.py
+# Description : This is the top level
+# Date      ECR Number  Initials    Change made
+# 5/10/22   ECR1        TCS         Added Header Comment
 #
-#   Version:    ECR:    Updatea:
-#
-
+# *******************************
 
 Disp = Display_Board.Board()
 CheckWin = CheckIfWin.Board()

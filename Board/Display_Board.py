@@ -1,4 +1,11 @@
 class Board:
+# *******************************
+# Filename: Display_Board.py
+# Description : Display the board
+# Date      ECR Number  Initials    Change made
+# 5/10/22   ECR1        TCS         Added Header Comment
+#
+# *******************************
     def init_board(self):
         Board_Actual = [' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' '] 
         return Board_Actual
